@@ -1,0 +1,24 @@
+CASO TESTE MOVIMENTO DE ENTREGA
+
+CT01 – ID não pode repetir
+CT02 – ID_Entregador é obrigatório
+CT03 – Endereço é obrigatório
+CT04 – Status é obrigatório
+CT05 – ID_Pedido é obrigatório
+CT06 – Hora_Saída é obrigatória
+CT07 – ID deve aceitar somente números
+CT08 – ID_Entregador deve existir no cadastro de entregadores
+CT09 – ID_Pedido deve existir no cadastro de pedidos
+CT10 – Endereço deve aceitar caracteres e números
+CT11 – Status deve aceitar somente valores permitidos
+CT12 – Observação pode ser deixada em branco
+CT13 – Hora_Saída deve aceitar um horário válido
+CT14 – Não deve permitir horário inválido
+CT15 – Não deve permitir ID_Pedido duplicado em uma entrega ativa
+CT16 – Não deve permitir cadastrar entrega com campos obrigatórios vazios
+CT17 – Deve permitir alterar o status da entrega
+CT18 – Deve permitir alterar a observação da entrega
+CT19 – Deve permitir consultar uma entrega cadastrada pelo ID
+CT20 – Deve permitir excluir uma entrega cadastrada
+
+
